@@ -1,0 +1,22 @@
+num = int(input("Digite um numero para ver sua tabuada: "))
+resultado_1 = num * 1
+resultado_2 = num * 2
+resultado_3 = num * 3
+resultado_4 = num * 4
+resultado_5 = num * 5
+resultado_6 = num * 6
+resultado_7 = num * 7
+resultado_8 = num * 8
+resultado_9 = num * 9
+resultado_10 = num * 10
+
+print(f'{num} x 1 = {resultado_1}')
+print(f'{num} x 2 = {resultado_2}')
+print(f'{num} x 3 = {resultado_3}')
+print(f'{num} x 4 = {resultado_4}')
+print(f'{num} x 5 = {resultado_5}')
+print(f'{num} x 6 = {resultado_6}')
+print(f'{num} x 7 = {resultado_7}')
+print(f'{num} x 8 = {resultado_8}')
+print(f'{num} x 9 = {resultado_9}')
+print(f'{num} x 10 = {resultado_10}')
